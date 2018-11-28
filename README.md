@@ -1,4 +1,4 @@
-# DataScienceInterviewQuestionsClassifier
+# Data Science Interview Questions Classifier
 
 A classifier that categorizes Data Science questions into the following:
 
