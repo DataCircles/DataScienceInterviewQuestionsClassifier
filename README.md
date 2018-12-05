@@ -25,6 +25,7 @@ The objective is to build a large database of data interview questions that can 
 - https://tekslate.com/data-science-interview-questions/
 - https://www.amazon.com/Questions-Crack-Data-Science-Interview-ebook/dp/B06XKVBFZ8 
 - https://www.sanfoundry.com/1000-data-science-questions-answers/
+- https://www.udacity.com/course/data-science-interview-prep--ud944 
 
 ## Database Building
 
