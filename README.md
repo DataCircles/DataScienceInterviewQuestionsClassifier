@@ -2,7 +2,7 @@
 
 ## Background
 
-The objective is to build a large database of data interview questions that can be used to develop a model 5yq5 can suggest key questions that prospective candidates may want to focus on based on the content of the job advertisement, resume, company and/or key focus areas.  This database can help focus time and effort in the interview preparation process.  Key stages to building this project:
+The objective is to build a large database of data interview questions that can be used to develop a model that can suggest key questions that prospective candidates may want to focus on based on the content of the job advertisement, resume, company and/or key focus areas.  This database can help focus time and effort in the interview preparation process.  Key stages to building the project:
 
 1.  Initial research to identify key resources that can be used to develop the database
 2.  Building of the database via explicit import of data files, web scraping and collation
