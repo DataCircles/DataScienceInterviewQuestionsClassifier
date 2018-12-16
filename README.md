@@ -7,9 +7,10 @@ The objective is to build a large database of data interview questions that can 
 1.  Initial research to identify key resources that can be used to develop the database
 2.  Building of the database via explicit import of data files, web scraping and collation
 3.  Creating a set of tagged questions that can serve as the ground truth in modeling activities
-4.  Exploratory data analysis that looks at the distribution of data questions relative to data type jobs
-5.  Building a classification model using various NLP techniques
-6.  Developing an API that people that are preparing for interviews can interact with to easily access the suggested list of questions and help manage their learning process.
+4.  Developing suggested answers to key questions.
+5.  Exploratory data analysis that looks at the distribution of data questions relative to data type jobs
+6.  Building a classification model using various NLP techniques
+7.  Developing a Web API that people that are preparing for interviews can interact with to easily access the suggested list of questions and help manage their learning process.
 
 ## Key Resources
 
